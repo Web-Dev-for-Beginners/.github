@@ -29,4 +29,9 @@ Whether you are a rookie 🥚 or a seasoned pro 🎸, there is something for eve
 - React-Projects
 - Full-Stack-Projects
 
+### ⚙️ HTML-CSS-and-JavaScript-Projects
+If you are just getting started with Web Development then this is the right ✅ repository for you. <br>
+This repository contains basic beginner friendly project to help you get started on your web 🕸️ dev journey. <br>
+
+
 
